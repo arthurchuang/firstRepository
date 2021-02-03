@@ -1,1 +1,2 @@
-print ("Hello World! I am Arthur!")
+print ("Hello World! My name is Arthur!")
+print ("How are you today?")
